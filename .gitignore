@@ -16,3 +16,6 @@ dist/
 
 # Staticfiles
 staticfiles/
+
+# Virtualenv
+venv/
